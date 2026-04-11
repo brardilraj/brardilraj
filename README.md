@@ -28,7 +28,7 @@ C • C++ • Python • Java • SQL
 HTML • CSS • Bootstrap • Flask • Node.js  
 
 ### 🛢️ Databases
-MySQL • MongoDB  
+MySQL • PostgreSQL  
 
 ### ☁️ Cloud & Tools
 AWS EC2 • Git • GitHub • VS Code • IntelliJ • RStudio  
