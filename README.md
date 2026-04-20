@@ -36,15 +36,6 @@ AWS EC2 • Git • GitHub • VS Code • IntelliJ • RStudio
 ### 🧠 Core CS Concepts
 Data Structures • Algorithms • OOP • DBMS • SDLC  
 
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brardilraj&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brardilraj&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
