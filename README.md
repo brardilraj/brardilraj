@@ -179,7 +179,7 @@ me.say_hi()
 
 ---
 
-### 🎨 [HR Workflow Designer](https://github.com/brardilraj/hr-workflow-designer)
+### 🎨 [HR Workflow Designer](https://github.com/brardilraj/HR-Workflow-Designer)
 > Production-grade visual workflow editor for HR automation with drag-and-drop canvas
 
 **Tech Stack:** `React 19` `TypeScript` `Zustand` `React Flow` `Tailwind CSS`
