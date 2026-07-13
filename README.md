@@ -283,7 +283,6 @@ const currentGoals = {
   💼 Open to collaborations on <b>Full-Stack</b>, <b>Machine Learning</b>, and <b>Open Source</b> projects!<br>
   📧 <b>Email:</b> <a href="mailto:dilrajbrar22@gmail.com">dilrajbrar22@gmail.com</a><br>
   🔗 <b>LinkedIn:</b> <a href="https://linkedin.com/in/dilraj-brar-5b8159290">Dilraj Brar</a><br>
-  💻 <b>Portfolio:</b> Coming Soon!
 </p>
 
 ---
