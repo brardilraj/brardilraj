@@ -191,7 +191,7 @@ me.say_hi()
 
 ---
 
-### ⚽ [Tactifit – AI Football Scouting](https://github.com/brardilraj/tactifit)
+### ⚽ [Tactifit – AI Football Scouting](https://github.com/brardilraj/Tactifit)
 > Data-driven player recommendation system with web scraping & clustering
 
 **Tech Stack:** `Python` `FastAPI` `Scikit-learn` `Selenium` `K-Means` `PCA`
