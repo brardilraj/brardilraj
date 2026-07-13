@@ -167,7 +167,7 @@ me.say_hi()
 
 ---
 
-### 🛡️ [Deep Learning Content Moderation](https://github.com/brardilraj/content-moderation-lstm)
+### 🛡️ [Deep Learning Content Moderation](https://github.com/brardilraj/MultiLabel-Toxicity-Moderation)
 > Bi-LSTM model classifying toxic comments across 6 simultaneous categories
 
 **Tech Stack:** `Python` `TensorFlow` `Keras` `Bi-LSTM` `NLP`
