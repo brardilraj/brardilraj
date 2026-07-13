@@ -155,7 +155,7 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-### 🌾 [AgriSense – AI Crop Yield Prediction]([https://github.com/brardilraj/agrisense](https://github.com/brardilraj/AgriSense-AI-Driven-Crop-Yield-Prediction))
+### 🌾 [AgriSense – AI Crop Yield Prediction](https://github.com/brardilraj/AgriSense-AI-Driven-Crop-Yield-Prediction)
 > Full-stack ML platform predicting crop yield for Tamil Nadu using RandomForest on 17 soil/climate features
 
 **Tech Stack:** `Python` `Flask` `Scikit-learn` `RandomForest` `Pandas` `Chart.js`
